@@ -1,5 +1,5 @@
 # recursive-algorithm-fibonacci
-## Programa que implementa um função recursiva que retorna os termos da série de Fibonacci.
+## Programa em C que implementa um função recursiva que retorna os termos da série de Fibonacci.
 
 ### Fórmula Fibonacci:
 ```Fn = Fn – 1 + Fn – 2```
