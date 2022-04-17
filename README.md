@@ -6,7 +6,8 @@
 
 ### Funçao Recursiva:
 
-```long fib (int numero) {
+```
+long fib (int numero) {
 	if (numero <= 2)
 		return (1);
 	else 
@@ -15,6 +16,7 @@
 ```
 ### Resultado para o numero inteiro 5:
 
-```Sequencia Fibonacci: 5
+```
+Sequencia Fibonacci: 5
 1 1 1 2 3
 ```
